@@ -125,8 +125,4 @@ function getZeros(numberInFactorial) {
 
     return counterZeros;
 }
-
-var counterZeros = zeros('5!');
-
-
 module.exports = zeros;
